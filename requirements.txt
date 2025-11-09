@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+PyMuPDF
+pytesseract
+opencv-python
+python-multipart
+presidio-analyzer
+presidio-anonymizer
+spacy
+detoxify
+torch
+transformers
+Pillow
+requests
