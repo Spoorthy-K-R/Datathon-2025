@@ -3,6 +3,9 @@
 This application provides an API to process PDF files, extract text, perform OCR, calculate a legibility score, and classify documents using an LLM.
 Deployed on Heroku - https://ai-powered-doc-classifier-59728d598ae1.herokuapp.com/
 
+<img width="1255" height="876" alt="image" src="https://github.com/user-attachments/assets/66e4d57c-b686-4da9-96d3-1e5d0b16a4f7" />
+
+
 ## Technologies Used
 
 - Python
